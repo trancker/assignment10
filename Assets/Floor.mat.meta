@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 5e71a3b403b5c72449e664e43ea87ad3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+python manage.py migrate
